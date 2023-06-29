@@ -1,0 +1,13 @@
+{
+    "name": "WorldHerbs",
+    "alias": "worldherbs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WorldHerbs\\Providers\\WorldHerbsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
